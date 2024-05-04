@@ -1,1 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14975008&assignment_repo_type=AssignmentRepo)
+Jogo da Memória - Doce Jogo - 
+
+![image](https://github.com/ProfAntolli/jogo-da-memoria-em-javascript-puro-IlcaFernandes/assets/168928327/7aec552c-3087-494a-a7b3-207106c95bde)
+![image](https://github.com/ProfAntolli/jogo-da-memoria-em-javascript-puro-IlcaFernandes/assets/168928327/a183ac43-bffb-4661-b6fe-6136488f9036)
